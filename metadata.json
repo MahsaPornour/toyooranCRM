@@ -1,0 +1,6 @@
+{
+  "name": "طیوران صنعت پویا (Toyooran)",
+  "description": "پرتال جامع و اختصاصی طیوران صنعت پویا شامل کاتالوگ محصولات، پروژه‌ها، مقالات تخصصی و پنل مدیریت پیشرفته",
+  "requestFramePermissions": [],
+  "majorCapabilities": ["MAJOR_CAPABILITY_SERVER_SIDE_GEMINI_API"]
+}
